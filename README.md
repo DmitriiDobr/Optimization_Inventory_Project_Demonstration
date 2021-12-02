@@ -47,3 +47,14 @@
 - src.model.supply_chain_logic.forecast_items.lead.py
 - src.model.supply_chain_logic.forecast_items.recalculate_leftovers.py
 
+
+### Скрины
+
+![Screenshot](Leftovers.jpg)
+
+![Screenshot](SALES_SCREEN.jpg)
+
+![Screenshot](UI_DASH_1.jpg)
+
+
+
